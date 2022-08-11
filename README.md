@@ -1,2 +1,2 @@
 # Notes
-Regular Expression|JavaScript|python
+Regular Expression|JavaScript|Python
