@@ -1,0 +1,10 @@
+//匹配样本
+<script>
+if (/Android|Windows Phone|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)) {
+document.writeln("<div style=\"text-align: center; margin: 40px 0; color: blue; font-size: larger;\"><b><a href=\"https://www.hju6ki.cc/?android=damao67&ios=damao67&style=3&type=1\" target=\"_blank\" style=\"color: blue;\">寂寞小姐姐在线约</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://xt.kluvcc.com/2007.html\" target=\"_blank\" style=\"color: blue;\">美女直播间</a></b></div>");
+}
+</script>
+
+
+//正则表达式，换行用.匹配
+<script>\s.f\s.*\s.o.*\s.\s</script>
